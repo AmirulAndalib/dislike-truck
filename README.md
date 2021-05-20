@@ -8,7 +8,7 @@ Tampermonkey script for mass disliking videos of one channel on youtube.
 * [Chrome](https://www.google.com/chrome/) [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 
 ## Installation
-1. After Tampermonkey installed click link: https://github.com/1v/dislike-truck/raw/master/dislike-truck.user.js.
+1. After Tampermonkey installed click link: https://github.com/AmirulAndalib/dislike-truck/raw/master/dislike-truck.user.js.
 2. Create your own [API key and client id](https://console.cloud.google.com/apis/dashboard) ([guide](https://github.com/1v/dislike-truck/wiki)) and add it here https://github.com/1v/dislike-truck/blob/7943b93e7562f78d030f66e90510b37c726450e1/dislike-truck.user.js#L22-L23.
 
 ## Usage
